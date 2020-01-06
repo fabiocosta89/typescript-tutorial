@@ -1,0 +1,23 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "TypeScript from https://www.valentinog.com/blog/typescript/",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiocosta89/typescript-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiocosta89/typescript-tutorial/issues"
+  },
+  "homepage": "https://github.com/fabiocosta89/typescript-tutorial#readme",
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
+}
